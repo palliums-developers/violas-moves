@@ -1,0 +1,1 @@
+move-check -t src/VLSHashMap.move  -d ../stdlib/source_files/Vector.move ../stdlib/source_files/Hash.move ../stdlib/source_files/BCS.move ../diem/source_files/CoreAddresses.move ../stdlib/source_files/Signer.move ../stdlib/source_files/Errors.move ../stdlib/source_files/UnitTest.move
